@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+body{
+	background: linear-gradient(90deg, rgba(23,0,36,1) 0%, rgba(9,115,121,1) 35%, rgba(0,255,184,1) 100%);
+}
+.headerFont{
+	display: flex;
+    justify-content: center;
+    height: 40px;
+}
+#leads{
+	color: blueviolet;
+}
+#contacts{
+	margin-left: 5px;
+	color: blueviolet;
+}
+#showError{
+	color: #cf0606;
+	text-shadow: 0 0 black;
+	font-size: large;
+    margin-left: 610px;
+}
+.formContainer{
+	padding-top: 30px;
+    margin-left: 310px;
+} 
+.form{
+	
+}
+#firstName{
+	margin-top: 5px;
+}  
+ 
